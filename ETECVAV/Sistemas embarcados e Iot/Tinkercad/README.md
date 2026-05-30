@@ -1,6 +1,6 @@
 # 🚦 Semáforo com Botão de Pedestre
 
-Projeto desenvolvido na disciplina de Sistemas Embarcados e IO na **ETEC Vasco Antonio Venchiarutti (ETECVAV)**, curso de Desenvolvimento de Sistemas.
+Projeto desenvolvido na disciplina de Sistemas Embarcados e IOT na **ETEC Vasco Antonio Venchiarutti (ETECVAV)**, curso de Desenvolvimento de Sistemas.
 
 Simulado no **Tinkercad**.
 
